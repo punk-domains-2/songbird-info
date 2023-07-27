@@ -204,6 +204,27 @@ const projects = [
 		img: require('@/assets/images/projects/send2name.png'),
 		url: 'https://send2.name/?ref=songbird.info'
 	},
+	{
+		id: 29,
+		title: 'Super Bad Series',
+		category: 'NFT',
+		img: require('@/assets/images/projects/super-bad-series.png'),
+		url: 'https://superbadseries.xyz/'
+	},
+	{
+		id: 30,
+		title: 'Gokubi',
+		category: 'NFT',
+		img: require('@/assets/images/projects/gokubi.png'),
+		url: 'https://linktr.ee/gokubi'
+	},
+	{
+		id: 31,
+		title: 'CanaryX',
+		category: 'DeFi',
+		img: require('@/assets/images/projects/canaryx.png'),
+		url: 'https://www.canaryx.xyz/'
+	},
 ];
 
 export default projects;
