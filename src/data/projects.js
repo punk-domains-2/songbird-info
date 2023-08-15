@@ -225,6 +225,20 @@ const projects = [
 		img: require('@/assets/images/projects/canaryx.png'),
 		url: 'https://www.canaryx.xyz/'
 	},
+	{
+		id: 32,
+		title: 'Astral Credits',
+		category: 'Community',
+		img: require('@/assets/images/projects/astralcredits.png'),
+		url: 'https://www.astralcredits.xyz/?ref=songbird.info'
+	},
+	{
+		id: 33,
+		title: 'Pixel Planet',
+		category: 'Web3 Project',
+		img: require('@/assets/images/projects/pixelplanet.gif'),
+		url: 'https://www.astralcredits.xyz/pixels/?ref=songbird.info'
+	},
 ];
 
 export default projects;
