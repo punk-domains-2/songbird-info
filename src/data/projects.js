@@ -228,14 +228,14 @@ const projects = [
 	{
 		id: 32,
 		title: 'Astral Credits',
-		category: 'Community',
+		category: 'Utility',
 		img: require('@/assets/images/projects/astralcredits.png'),
 		url: 'https://www.astralcredits.xyz/?ref=songbird.info'
 	},
 	{
 		id: 33,
 		title: 'Pixel Planet',
-		category: 'Web3 Project',
+		category: 'Utility',
 		img: require('@/assets/images/projects/pixelplanet.gif'),
 		url: 'https://www.astralcredits.xyz/pixels/?ref=songbird.info'
 	},
