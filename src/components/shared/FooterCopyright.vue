@@ -17,7 +17,7 @@ export default {
 		>
 			Don't see a project listed? 
 			<a
-				href="https://github.com/punk-domains/songbird-info/issues"
+				href="https://github.com/punk-domains-2/songbird-info/issues"
 				target="__blank"
 				class="underline hover:text-indigo-600 dark:hover:text-indigo-300 duration-500"
 			>
