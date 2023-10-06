@@ -239,6 +239,13 @@ const projects = [
 		img: require('@/assets/images/projects/pixelplanet.gif'),
 		url: 'https://www.astralcredits.xyz/pixels/?ref=songbird.info'
 	},
+	{
+		id: 34,
+		title: 'BlueBirdX',
+		category: 'Utility',
+		img: require('@/assets/images/projects/bluebirdx.jpg'),
+		url: 'https://bluebirdx.xyz/links?ref=songbird.info'
+	},
 ];
 
 export default projects;
