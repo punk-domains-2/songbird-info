@@ -246,6 +246,13 @@ const projects = [
 		img: require('@/assets/images/projects/bluebirdx.jpg'),
 		url: 'https://bluebirdx.xyz/links?ref=songbird.info'
 	},
+	{
+		id: 35,
+		title: 'Mr.Tipbot',
+		category: 'Utility',
+		img: require('@/assets/images/projects/MrTipbot.png'),
+		url: 'https://www.astralcredits.xyz/tipbot?ref=songbird.info'
+	},
 ];
 
 export default projects;
